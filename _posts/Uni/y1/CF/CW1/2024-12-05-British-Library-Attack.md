@@ -22,6 +22,6 @@ future threats.
 
 This is a coursework that was submitted as part of a Cyber Fundamentals Module from Year 1 as a part of the Cyber Security Degree at University of Warwick 
 
-[Download the Report](/assets/files/coursework/year1/Cyber_Fundamentals.pdf){: download="Cyber_Fundamentals.pdf"}
+[Download the Report](/var/home/radonchnk/Files/Projects/radonchnk.github.io/assets/files/coursework/year1/CF/CW1/Cyber_Fundamentals.pdf){: download="Cyber_Fundamentals.pdf"}
 
 Grade: 74%
