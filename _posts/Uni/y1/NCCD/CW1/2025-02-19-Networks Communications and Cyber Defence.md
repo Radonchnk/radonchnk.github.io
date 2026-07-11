@@ -14,7 +14,7 @@ We are required to design a network that provides reliable communication across 
 
 This is a coursework that was submitted as part of a Networks Communications and Cyber Defence module from Year 1 as a part of the Cyber Security Degree at University of Warwick 
 
-[Download the Report](/assets/assets/files/coursework/year1/NCCD/CW1/NCCD_CW1_u5602780.pdf){: download="SDS_CW1.pdf"}
+[Download the Report](/assets/files/coursework/year1/NCCD/CW1/NCCD_CW1_u5602780.pdf){: download="SDS_CW1.pdf"}
 
 [Downlaod the Source](https://drive.google.com/file/d/1T8QRVMkAkFEvJYtxydCwioDnVvTm32ei/view?usp=drive_link)
 
