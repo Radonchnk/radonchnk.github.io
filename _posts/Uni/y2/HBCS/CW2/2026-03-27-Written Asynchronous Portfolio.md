@@ -13,8 +13,12 @@ Placeholder for Written Asynchronous Portfolio report and feedback.
 
 This is a coursework that was submitted as part of a Human Behaviour in Cyber Systems module from Year 2 as a part of the Cyber Security Degree at University of Warwick 
 
+{% comment %}
 [Download the Report](/assets/files/coursework/year2/HBCS/CW2/report.pdf){: download="report.pdf"}
+{% endcomment %}
 
+{% comment %}
 [Download the Feedback](/assets/files/coursework/year2/HBCS/CW2/feedback.docx){: download="feedback.docx"}
+{% endcomment %}
 
 Grade: Pending

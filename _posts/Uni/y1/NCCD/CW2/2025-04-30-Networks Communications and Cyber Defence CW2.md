@@ -13,8 +13,12 @@ Placeholder for Networks Communications and Cyber Defence CW2 report and feedbac
 
 This is a coursework that was submitted as part of a Networks Communications and Cyber Defence module from Year 1 as a part of the Cyber Security Degree at University of Warwick 
 
+{% comment %}
 [Download the Report](/assets/files/coursework/year1/NCCD/CW2/report.pdf){: download="report.pdf"}
+{% endcomment %}
 
+{% comment %}
 [Download the Feedback](/assets/files/coursework/year1/NCCD/CW2/feedback.docx){: download="feedback.docx"}
+{% endcomment %}
 
 Grade: Pending

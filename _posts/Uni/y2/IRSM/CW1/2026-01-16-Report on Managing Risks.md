@@ -13,8 +13,12 @@ Placeholder for Report on Managing Risks report and feedback.
 
 This is a coursework that was submitted as part of a Information Risk and Security Management module from Year 2 as a part of the Cyber Security Degree at University of Warwick 
 
+{% comment %}
 [Download the Report](/assets/files/coursework/year2/IRSM/CW1/report.pdf){: download="report.pdf"}
+{% endcomment %}
 
+{% comment %}
 [Download the Feedback](/assets/files/coursework/year2/IRSM/CW1/feedback.docx){: download="feedback.docx"}
+{% endcomment %}
 
 Grade: Pending
