@@ -14,11 +14,11 @@ Placeholder for Individual Report report and feedback.
 This is a coursework that was submitted as part of a The Cyber Context of Software Engineering module from Year 2 as a part of the Cyber Security Degree at University of Warwick 
 
 {% comment %}
-[Download the Report](/assets/files/coursework/year2/CCSE/CW1/report.pdf){: download="report.pdf"}
+[Download the Report](/assets/files/coursework/year2/CCSE/CW1/CCSE_cw1_u5602780.pdf){: download="CCSE_cw1_u5602780.pdf"}
 {% endcomment %}
 
 {% comment %}
-[Download the Feedback](/assets/files/coursework/year2/CCSE/CW1/feedback.docx){: download="feedback.docx"}
+[Download the Feedback](/assets/files/coursework/year2/CCSE/CW1/5602780.docx){: download="5602780.docx"}
 {% endcomment %}
 
 Grade: Pending
