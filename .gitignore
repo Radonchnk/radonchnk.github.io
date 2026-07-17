@@ -25,3 +25,15 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# Antigravity CLI
+.antigravitycli/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
